@@ -9,7 +9,7 @@ import {
 } from "../constant/reviewConstant";
 
 const URL = "https://uninterested-fox-shift.cyclic.app";
-// const URL = "http://localhost:8030";
+// const URL = "https://uninterested-fox-shift.cyclic.app";
 
 export const postReview =
   (name, image, email, date, review) => async (dispatch) => {

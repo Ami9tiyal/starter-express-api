@@ -12,7 +12,7 @@ import {
   GET_COMMENT_SUCCESS,
 } from "../constant/blog";
 
-// const URL = "http://localhost:8030";
+// const URL = "https://uninterested-fox-shift.cyclic.app";
 const URL = "https://uninterested-fox-shift.cyclic.app";
 
 export const postComment =

@@ -13,7 +13,7 @@ import {
 } from "../constant/user";
 
 const URL = "https://uninterested-fox-shift.cyclic.app";
-const URLs = "http://localhost:8030";
+const URLs = "https://uninterested-fox-shift.cyclic.app";
 
 export const usersBlog = (email) => async (dispatch) => {
   try {
