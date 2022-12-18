@@ -8,7 +8,7 @@ import {
   GET_REVIEW_SUCCESS,
 } from "../constant/reviewConstant";
 
-const URL = "https://mernelearning.herokuapp.com";
+const URL = "https://uninterested-fox-shift.cyclic.app";
 // const URL = "http://localhost:8030";
 
 export const postReview =

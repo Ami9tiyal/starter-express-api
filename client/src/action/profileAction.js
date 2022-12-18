@@ -12,7 +12,7 @@ import {
   USER_UPDATE_SUCCESS,
 } from "../constant/user";
 
-const URL = "https://mernelearning.herokuapp.com";
+const URL = "https://uninterested-fox-shift.cyclic.app";
 const URLs = "http://localhost:8030";
 
 export const usersBlog = (email) => async (dispatch) => {

@@ -13,7 +13,7 @@ import {
 } from "../constant/blog";
 
 // const URL = "http://localhost:8030";
-const URL = "https://mernelearning.herokuapp.com";
+const URL = "https://uninterested-fox-shift.cyclic.app";
 
 export const postComment =
   (name, postId, email, date, comment) => async (dispatch) => {
